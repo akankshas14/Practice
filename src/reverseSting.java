@@ -2,7 +2,7 @@
 public class reverseSting {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		String s = "This world is full of selfish people";
 			System.out.println(reverse(s));
 	}

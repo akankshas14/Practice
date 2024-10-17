@@ -3,7 +3,7 @@ import java.util.HashSet;
 public class DuplicateElementsHashSet {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int []arr = {2,5,7,9,0,2,7,0};
 		IsDuplicate(arr);
 		

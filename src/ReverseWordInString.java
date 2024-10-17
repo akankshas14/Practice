@@ -2,7 +2,7 @@
 public class ReverseWordInString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		String s  = "This world is full of selfish People";
 		System.out.println(reverseWord(s));
 		

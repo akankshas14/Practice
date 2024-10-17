@@ -13,7 +13,7 @@ public class Sort {
 	
 	}
 		public static int[] sort(int [] a) {
-		// TODO Auto-generated method stub
+
 		
 			
 			for(int i = 0 ; i<a.length;i++) {
